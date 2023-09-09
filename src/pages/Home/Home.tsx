@@ -83,7 +83,7 @@ function HomePage() {
             <header className={styles.header}>
               <nav className={styles.nav}>
                 <div>
-                  <h1>Frontend Mentor</h1>
+                  <h1>今天吃/喝什么</h1>
                   <h2>Feedback board</h2>
                 </div>
               </nav>
@@ -116,7 +116,7 @@ function HomePage() {
             <header className={styles.header}>
               <nav className={styles.nav}>
                 <div>
-                  <h1>Frontend Mentor</h1>
+                  <h1>今天吃/喝什么</h1>
                   <h2>Feedback board</h2>
                 </div>
                 {/* TODO: Fix keyboard navigation which enters the sidebar when is hidden */}
@@ -125,7 +125,7 @@ function HomePage() {
               <div className={styles.headerCards}>
                 <Card className={styles.title}>
                   <div>
-                    <h1>Frontend Mentor</h1>
+                    <h1>今天吃/喝什么</h1>
                     <h2>Feedback board</h2>
                   </div>
                 </Card>
